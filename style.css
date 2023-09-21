@@ -1,0 +1,26 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Comfortaa:wght@700&family=Kanit&family=Libre+Baskerville&family=Roboto+Mono:wght@300;400;700&family=Source+Code+Pro&display=swap'); */
+
+body {
+    background-color: black;
+}
+
+.main {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1, p {
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    text-transform: uppercase;
+}
